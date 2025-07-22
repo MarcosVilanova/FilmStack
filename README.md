@@ -3,7 +3,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=Youtube&message=@Vilanovadev&color=FFD700&labelColor=0D0D0D" alt="youtube.com/@Vilanovadev" />
   <img src="https://img.shields.io/static/v1?label=Tipo&message=Projeto%20Web&color=FFD700&labelColor=0D0D0D" alt="Projeto Web" />
 </p>
 
